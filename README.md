@@ -20,11 +20,11 @@ The **Mini HRMS System** is a full-stack application developed for the Cube Tech
 
 |              Login Page              |                   Dashboard                   |             Employee Management              |
 | :----------------------------------: | :-------------------------------------------: | :------------------------------------------: |
-| ![Login](./screenshots/AuthPage.png) | ![Dashboard](./screenshots/DashboardPage.png) | ![Employees](./screenshots/EmployeePage.png) |
+| ![Login](./screenshots/AuthPage.jpg) | ![Dashboard](./screenshots/DashboardPage.jpg) | ![Employees](./screenshots/EmployeePage.jpg) |
 
 |            Salary Management            |                   Attendance                    |              Payroll Summary              |
 | :-------------------------------------: | :---------------------------------------------: | :---------------------------------------: |
-| ![Salary](./screenshots/SalaryPage.png) | ![Attendance](./screenshots/AttendancePage.png) | ![Payroll](./screenshots/PayrollPage.png) |
+| ![Salary](./screenshots/SalaryPage.jpg) | ![Attendance](./screenshots/AttendancePage.jpg) | ![Payroll](./screenshots/PayrollPage.jpg) |
 
 ---
 
