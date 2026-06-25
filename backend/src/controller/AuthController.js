@@ -6,10 +6,10 @@ const adminAccounts = {
     password: "admin123",
   },
   secondAccount: {
-    userName: "Ven Angel",
+    userName: "Arthur Nightingale",
     role: "Admin",
-    email: "vencarlostagaro@gmail.com",
-    password: "09569674584",
+    email: "jormugandr@gmail.com",
+    password: "12345678",
   },
 };
 
