@@ -11,7 +11,7 @@ The **Mini HRMS System** is a full-stack application developed for the Cube Tech
 ## Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
+- **Backend:** Express.js
 - **Database:** PostgreSQL
 
 ---
