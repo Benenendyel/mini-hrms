@@ -45,7 +45,6 @@ function SalaryPage() {
     }).format(amount || 0);
   };
 
-  console.log("Salaries from Context:", salaries);
   return (
     <div className="flex relative flex-col px-5 md:px-10 pt-25 min-h-screen gap-6">
       {addModal && (

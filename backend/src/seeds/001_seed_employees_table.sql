@@ -1,0 +1,16 @@
+INSERT INTO employees (full_name, email, contact_number, position, department, date_hired, employment_status) VALUES
+('Juan dela Cruz', 'juan.delacruz@email.com', '09171234567', 'Software Engineer', 'IT & Engineering', '2024-01-15', 'Active'),
+('Maria Santos', 'maria.santos@email.com', '09182345678', 'HR Coordinator', 'Human Resources', '2024-02-01', 'Active'),
+('Jose Reyes', 'jose.reyes@email.com', '09193456789', 'Accountant', 'Finance', '2024-03-10', 'Active'),
+('Ana Ramos', 'ana.ramos@email.com', '09204567890', 'Marketing Specialist', 'Marketing', '2024-04-05', 'Active'),
+('Carlos Mendoza', 'carlos.mendoza@email.com', '09215678901', 'Data Analyst', 'IT & Engineering', '2024-05-20', 'Active'),
+('Rosa Garcia', 'rosa.garcia@email.com', '09226789012', 'UI/UX Designer', 'IT & Engineering', '2024-06-15', 'Active'),
+('Miguel Torres', 'miguel.torres@email.com', '09237890123', 'Sales Manager', 'Sales', '2024-07-01', 'Active'),
+('Lucia Flores', 'lucia.flores@email.com', '09248901234', 'Operations Manager', 'Operations', '2024-08-10', 'Active'),
+('Pedro Villanueva', 'pedro.villanueva@email.com', '09259012345', 'Finance Manager', 'Finance', '2024-09-05', 'Active'),
+('Elena Castillo', 'elena.castillo@email.com', '09260123456', 'Recruitment Specialist', 'Human Resources', '2024-10-20', 'On Leave'),
+('Ramon Aquino', 'ramon.aquino@email.com', '09271234567', 'Backend Developer', 'IT & Engineering', '2024-11-15', 'Active'),
+('Sofia Bautista', 'sofia.bautista@email.com', '09282345678', 'Frontend Developer', 'IT & Engineering', '2024-12-01', 'Active'),
+('Diego Hernandez', 'diego.hernandez@email.com', '09293456789', 'Sales Representative', 'Sales', '2025-01-10', 'Resigned'),
+('Isabel Cruz', 'isabel.cruz@email.com', '09204567891', 'Content Writer', 'Marketing', '2025-02-05', 'Active'),
+('Antonio Lopez', 'antonio.lopez@email.com', '09215678902', 'DevOps Engineer', 'IT & Engineering', '2025-03-20', 'Active');

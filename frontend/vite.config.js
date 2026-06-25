@@ -4,6 +4,11 @@ import babel from "@rolldown/plugin-babel";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
+  server: {
+    proxy: {
+      "/api": "http://localhost:3000",
+    },
+  },
   plugins: [
     react(),
     tailwindcss(),

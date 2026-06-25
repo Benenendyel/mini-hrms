@@ -13,7 +13,7 @@ const usePayroll = () => {
       const data = await payrollApi.getPayroll();
       setPayroll(data);
     } catch (error) {
-      console.error(error);
+      return { message: error.message, success: false };
     } finally {
       setPayrollLoading(false);
     }
