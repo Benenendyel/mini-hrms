@@ -98,6 +98,6 @@ Open your browser and go to `http://localhost:5173`
 
 ## Note(s)
 
-- **Why not users table:** Because I chose static for the admin table
+- **Why no users table:** I chose static (hardcoded) admin credentails instead of a database users table for authentication.
 - **Layouts:** Had help using Google Stitch for immediate templating and visualization.
 - **Colors:** I just took the colors from the icon I found from flatIcon website.
