@@ -37,23 +37,7 @@ Ensure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (v18+)
 - [PostgreSQL](https://www.postgresql.org/)
 
-### 2. Database Setup
-
-1. Create a PostgreSQL database
-2. Run the migrations in order to create the tables
-3. (Optional) Run the seeds to populate sample data
-
-### 3. Environment Setup
-
-In the backend folder, copy the example env file and fill in your database credentials:
-
-```bash
-cp .env.example .env
-```
-
-Your `.env` should look like this:
-
-### 4. Getting Started
+### 2. Getting Started
 
 Clone the repository:
 
@@ -61,6 +45,24 @@ Clone the repository:
 git clone https://github.com/Benenendyel/mini-hrms.git
 cd mini-hrms
 ```
+
+### 2. Environment Setup
+
+In the backend folder, copy the example env file and fill in your database credentials:
+
+```bash
+cp .env.example .env
+```
+
+### 3. Database Setup
+
+1. Create a PostgreSQL database
+2. Run the migrations in order to create the tables
+3. (Optional) Run the seeds to populate sample data
+
+Your `.env` should look like this:
+
+### 4. Running Setup
 
 Open two terminals and run both servers:
 
